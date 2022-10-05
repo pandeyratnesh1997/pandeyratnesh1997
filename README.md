@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **pandeyratnesh1997@gmail.com**
 
-- 📄  [Resume](https://docs.google.com/document/d/1IAiqBKeE8HMxKGFmdjMjkS0sDbD13ARF2gqrBAwa0CQ/edit)
+- 📄  [Resume](https://drive.google.com/file/d/1_pcpgZLipghutiP3ORdSfOy1pveSsb3X/view?usp=sharing)
 -  📄 [ Portfolio](https://ratnesh-portfolio.netlify.app/)
 
     <img src="https://github-readme-stats.vercel.app/api?username=pandeyratnesh1997&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
